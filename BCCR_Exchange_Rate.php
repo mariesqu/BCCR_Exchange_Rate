@@ -1,4 +1,10 @@
 <?php
+/**
+ * BCCR_Exchange_Rate - PHP class to get the exchange rate from BCCR.
+ *
+ * @author Mario Esquivel (mariesqu/BCCR_Exchange_Rate) <mesquivel007@gmail.com>
+ * @lastupdated 28/09/2020
+ */
 
 final class BCCR_Exchange_Rate
 {
